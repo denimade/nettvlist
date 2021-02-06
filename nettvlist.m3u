@@ -37,12 +37,16 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.217/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.85/index.m3u8
 #EXTINF:0 tvg-name="Zoom" tvg-logo="http://nashnet.tv/tv_logo/png/channels/52_color.png", Zoom
 http://s5.cdn.nashnet.tv:8000/228.0.0.57/index.m3u8
+#EXTINF:0 tvg-name="ОЦЕ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2001_color.png", ОЦЕ HD
+http://s5.cdn.nashnet.tv:8000/228.0.3.218/index.m3u8
 #EXTINF:0 tvg-name="English Club TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/300_color.png", English Club TV
 http://s5.cdn.nashnet.tv:8000/228.0.1.15/index.m3u8
 #EXTINF:0 tvg-name="ПлюсПлюс HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2178_color.png", ПлюсПлюс HD
 http://s5.cdn.nashnet.tv:8000/228.0.3.61/index.m3u8
 #EXTINF:0 tvg-name="Піксель" tvg-logo="http://nashnet.tv/tv_logo/png/channels/6_color.png", Піксель
 http://s5.cdn.nashnet.tv:8000/228.0.0.8/index.m3u8
+#EXTINF:0 tvg-name="Lale HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/410_color.png", Lale HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.50/index.m3u8
 #EXTINF:0 tvg-name="Nickelodeon HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/113_color.png", Nickelodeon HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.123/index.m3u8
 #EXTINF:0 tvg-name="NIKI Kids HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1174_color.png", NIKI Kids HD
@@ -205,8 +209,6 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.118/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.84/index.m3u8
 #EXTINF:0 tvg-name="Канал 8 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/124_color.png", Канал 8 HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.138/index.m3u8
-#EXTINF:0 tvg-name="ОЦЕ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2001_color.png", ОЦЕ HD
-http://s5.cdn.nashnet.tv:8000/228.0.3.218/index.m3u8
 #EXTINF:0 tvg-name="Еко ТВ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2234_color.png", Еко ТВ HD
 http://s5.cdn.nashnet.tv:8000/228.0.1.60/index.m3u8
 #EXTINF:0 tvg-name="Epoque" tvg-logo="http://nashnet.tv/tv_logo/png/channels/814_color.png", Epoque
@@ -291,8 +293,6 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.38/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.126/index.m3u8
 #EXTINF:0 tvg-name="ОЦЕ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/15_color.png", ОЦЕ
 http://s5.cdn.nashnet.tv:8000/228.0.0.18/index.m3u8
-#EXTINF:0 tvg-name="Lale HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/410_color.png", Lale HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.50/index.m3u8
 #EXTINF:0 tvg-name="Milady television" tvg-logo="http://nashnet.tv/tv_logo/png/channels/467_color.png", Milady television
 http://s5.cdn.nashnet.tv:8000/228.0.1.45/index.m3u8
 #EXTINF:0 tvg-name="Караван TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/965_color.png", Караван TV
