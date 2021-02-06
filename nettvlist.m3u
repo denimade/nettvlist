@@ -31,6 +31,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.4.26/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.2/index.m3u8
 #EXTINF:0 tvg-name="Перший Автомобільний" tvg-logo="http://nashnet.tv/tv_logo/png/channels/26_color.png", Перший Автомобільний
 http://s5.cdn.nashnet.tv:8000/228.0.0.29/index.m3u8
+#EXTINF:0 tvg-name="Перший Автомобільний HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1237_color.png", Перший Автомобільний HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.217/index.m3u8
 #EXTINF:0 tvg-name="НЛО TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/154_color.png", НЛО TV HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.85/index.m3u8
 #EXTINF:0 tvg-name="Zoom" tvg-logo="http://nashnet.tv/tv_logo/png/channels/52_color.png", Zoom
@@ -83,8 +85,12 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.59/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.13/index.m3u8
 #EXTINF:0 tvg-name="EU Music HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/33_color.png", EU Music HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.36/index.m3u8
+#EXTINF:0 tvg-name="4ever Music HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1930_color.png", 4ever Music HD
+http://s5.cdn.nashnet.tv:8000/228.0.2.163/index.m3u8
 #EXTINF:0 tvg-name="Music Box UA" tvg-logo="http://nashnet.tv/tv_logo/png/channels/96_color.png", Music Box UA
 http://s5.cdn.nashnet.tv:8000/228.0.0.105/index.m3u8
+#EXTINF:0 tvg-name="Music Box UA HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/454_color.png", Music Box UA HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.159/index.m3u8
 #EXTINF:0 tvg-name="Футбол 1 (UA)" tvg-logo="http://nashnet.tv/tv_logo/png/channels/128_color.png", Футбол 1
 http://s5.cdn.nashnet.tv:8000/228.0.0.142/index.m3u8
 #EXTINF:0 tvg-name="Футбол 2 (UA)" tvg-logo="http://nashnet.tv/tv_logo/png/channels/129_color.png", Футбол 2
@@ -131,6 +137,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.3.171/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.1.68/index.m3u8
 #EXTINF:0 tvg-name="TLC" tvg-logo="http://nashnet.tv/tv_logo/png/channels/770_color.png", TLC
 http://s5.cdn.nashnet.tv:8000/228.0.1.74/index.m3u8
+#EXTINF:0 tvg-name="Da Vinci Learning" tvg-logo="http://nashnet.tv/tv_logo/png/channels/93_color.png", Da Vinci Learning
+http://s5.cdn.nashnet.tv:8000/228.0.0.102/index.m3u8
 #EXTINF:0 tvg-name="Eurosport 1" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1988_color.png", Eurosport 1
 http://s5.cdn.nashnet.tv:8000/228.0.3.147/index.m3u8
 #EXTINF:0 tvg-name="Eurosport 1 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/588_color.png", Eurosport 1 HD
@@ -157,6 +165,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.1.43/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.1.33/index.m3u8
 #EXTINF:0 tvg-name="SET" tvg-logo="http://nashnet.tv/tv_logo/png/channels/103_color.png", Sony Channel
 http://s5.cdn.nashnet.tv:8000/228.0.0.113/index.m3u8
+#EXTINF:0 tvg-name="SET HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/822_color.png", Sony Channel HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.49/index.m3u8
 #EXTINF:0 tvg-name="Sony Turbo" tvg-logo="http://nashnet.tv/tv_logo/png/channels/284_color.png", Sony Turbo
 http://s5.cdn.nashnet.tv:8000/228.0.0.107/index.m3u8
 #EXTINF:0 tvg-name="Sony Sci-Fi" tvg-logo="http://nashnet.tv/tv_logo/png/channels/104_color.png", Sony Sci-Fi
@@ -165,16 +175,16 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.114/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.3.133/index.m3u8
 #EXTINF:0 tvg-name="Paramount channel HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2112_color.png", Paramount channel HD
 http://s5.cdn.nashnet.tv:8000/228.0.3.134/index.m3u8
+#EXTINF:0 tvg-name="Любимое кино" tvg-logo="http://nashnet.tv/tv_logo/png/channels/810_color.png", Наше Кино
+http://s5.cdn.nashnet.tv:8000/228.0.1.81/index.m3u8
 #EXTINF:0 tvg-name="FILMUADRAMA HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/913_color.png", FILMUADRAMA HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.130/index.m3u8
+#EXTINF:0 tvg-name="Bolt HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1099_color.png", Bolt HD
+http://s5.cdn.nashnet.tv:8000/228.0.2.170/index.m3u8
 #EXTINF:0 tvg-name="Star Cinema HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1095_color.png", Star Cinema HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.31/index.m3u8
 #EXTINF:0 tvg-name="Star Family HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1096_color.png", Star Family HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.32/index.m3u8
-#EXTINF:0 tvg-name="Bolt HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1099_color.png", Bolt HD
-http://s5.cdn.nashnet.tv:8000/228.0.2.170/index.m3u8
-#EXTINF:0 tvg-name="Любимое кино" tvg-logo="http://nashnet.tv/tv_logo/png/channels/810_color.png", Наше Кино
-http://s5.cdn.nashnet.tv:8000/228.0.1.81/index.m3u8
 #EXTINF:0 tvg-name="Fashion TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/156_color.png", Fashion TV HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.125/index.m3u8
 #EXTINF:0 tvg-name="Fashion TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/67_color.png", Fashion TV
@@ -185,6 +195,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.132/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.87/index.m3u8
 #EXTINF:0 tvg-name="World Fashion" tvg-logo="http://nashnet.tv/tv_logo/png/channels/40_color.png", World Fashion
 http://s5.cdn.nashnet.tv:8000/228.0.0.44/index.m3u8
+#EXTINF:0 tvg-name="Ukrainian Fashion HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1333_color.png", Ukrainian Fashion HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.67/index.m3u8
 #EXTINF:0 tvg-name="DW-TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/51_color.png", DW-TV HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.56/index.m3u8
 #EXTINF:0 tvg-name="112 Україна" tvg-logo="http://nashnet.tv/tv_logo/png/channels/213_color.png", 112 Україна
@@ -193,114 +205,10 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.118/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.84/index.m3u8
 #EXTINF:0 tvg-name="Канал 8 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/124_color.png", Канал 8 HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.138/index.m3u8
-#EXTINF:0 tvg-name="Трофей" tvg-logo="http://nashnet.tv/tv_logo/png/channels/224_color.png", Трофей
-http://s5.cdn.nashnet.tv:8000/228.0.0.201/index.m3u8
-#EXTINF:0 tvg-name="UA:КРИМ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/963_color.png", UA:КРИМ
-http://s5.cdn.nashnet.tv:8000/228.0.0.71/index.m3u8
-#EXTINF:0 tvg-name="News 24 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/30_color.png", News 24 HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.33/index.m3u8
-#EXTINF:0 tvg-name="News One HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/496_color.png", News One HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.110/index.m3u8
-#EXTINF:0 tvg-name="Перший Діловий" tvg-logo="http://nashnet.tv/tv_logo/png/channels/85_color.png", Перший Діловий
-http://s5.cdn.nashnet.tv:8000/228.0.0.94/index.m3u8
-#EXTINF:0 tvg-name="ЧП.INFO" tvg-logo="http://nashnet.tv/tv_logo/png/channels/25_color.png", ЧП.INFO
-http://s5.cdn.nashnet.tv:8000/228.0.0.28/index.m3u8
-#EXTINF:0 tvg-name="Глас" tvg-logo="http://nashnet.tv/tv_logo/png/channels/7_color.png", Глас
-http://s5.cdn.nashnet.tv:8000/228.0.0.10/index.m3u8
-#EXTINF:0 tvg-name="НАШ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1486_color.png", НАШ HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.169/index.m3u8
 #EXTINF:0 tvg-name="ОЦЕ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2001_color.png", ОЦЕ HD
 http://s5.cdn.nashnet.tv:8000/228.0.3.218/index.m3u8
-#EXTINF:0 tvg-name="Бігуді" tvg-logo="http://nashnet.tv/tv_logo/png/channels/97_color.png", Бігуді
-http://s5.cdn.nashnet.tv:8000/228.0.0.106/index.m3u8
-#EXTINF:0 tvg-name="Наталі" tvg-logo="http://nashnet.tv/tv_logo/png/channels/144_color.png", Наталі
-http://s5.cdn.nashnet.tv:8000/228.0.0.140/index.m3u8
 #EXTINF:0 tvg-name="Еко ТВ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2234_color.png", Еко ТВ HD
 http://s5.cdn.nashnet.tv:8000/228.0.1.60/index.m3u8
-#EXTINF:0 tvg-name="Дача" tvg-logo="http://nashnet.tv/tv_logo/png/channels/134_color.png", Дача
-http://s5.cdn.nashnet.tv:8000/228.0.0.147/index.m3u8
-#EXTINF:0 tvg-name="ZIK" tvg-logo="http://nashnet.tv/tv_logo/png/channels/27_color.png", ZIK HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.30/index.m3u8
-#EXTINF:0 tvg-name="ZIK" tvg-logo="http://nashnet.tv/tv_logo/png/channels/39_color.png", ZIK
-http://s5.cdn.nashnet.tv:8000/228.0.0.43/index.m3u8
-#EXTINF:0 tvg-name="Чорноморська ТРК" tvg-logo="http://nashnet.tv/tv_logo/png/channels/122_color.png", Чорноморська ТРК
-http://s5.cdn.nashnet.tv:8000/228.0.0.136/index.m3u8
-#EXTINF:0 tvg-name="Da Vinci Learning" tvg-logo="http://nashnet.tv/tv_logo/png/channels/93_color.png", Da Vinci Learning
-http://s5.cdn.nashnet.tv:8000/228.0.0.102/index.m3u8
-#EXTINF:0 tvg-name="CNN" tvg-logo="http://nashnet.tv/tv_logo/png/channels/70_color.png", CNN
-http://s5.cdn.nashnet.tv:8000/228.0.0.75/index.m3u8
-#EXTINF:0 tvg-name="Беларусь ТВ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/147_color.png", Беларусь ТВ
-http://s5.cdn.nashnet.tv:8000/228.0.0.171/index.m3u8
-#EXTINF:0 tvg-name="Надія ТБ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/149_color.png", Надія ТБ
-http://s5.cdn.nashnet.tv:8000/228.0.0.172/index.m3u8
-#EXTINF:0 tvg-name="Перший західний" tvg-logo="http://nashnet.tv/tv_logo/png/channels/309_color.png", Перший західний
-http://s5.cdn.nashnet.tv:8000/228.0.0.162/index.m3u8
-#EXTINF:0 tvg-name="Сонце" tvg-logo="http://nashnet.tv/tv_logo/png/channels/177_color.png", Сонце
-http://s5.cdn.nashnet.tv:8000/228.0.0.165/index.m3u8
-#EXTINF:0 tvg-name="Еспрессо TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/199_color.png", Еспрессо TV HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.191/index.m3u8
-#EXTINF:0 tvg-name="CNL HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/121_color.png", CNL HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.135/index.m3u8
-#EXTINF:0 tvg-name="France 24 English" tvg-logo="http://nashnet.tv/tv_logo/png/channels/227_color.png", France 24 English
-http://s5.cdn.nashnet.tv:8000/228.0.0.166/index.m3u8
-#EXTINF:0 tvg-name="UA:Перший" tvg-logo="http://nashnet.tv/tv_logo/png/channels/4_color.png", UA:Перший
-http://s5.cdn.nashnet.tv:8000/228.0.0.5/index.m3u8
-#EXTINF:0 tvg-name="MTV Live HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/114_color.png", MTV Live HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.124/index.m3u8
-#EXTINF:0 tvg-name="MTV 80s" tvg-logo="http://nashnet.tv/tv_logo/png/channels/277_color.png", MTV 80s
-http://s5.cdn.nashnet.tv:8000/228.0.0.250/index.m3u8
-#EXTINF:0 tvg-name="VH1" tvg-logo="http://nashnet.tv/tv_logo/png/channels/279_color.png", VH1
-http://s5.cdn.nashnet.tv:8000/228.0.0.247/index.m3u8
-#EXTINF:0 tvg-name="MTV Hits" tvg-logo="http://nashnet.tv/tv_logo/png/channels/280_color.png", MTV Hits
-http://s5.cdn.nashnet.tv:8000/228.0.0.248/index.m3u8
-#EXTINF:0 tvg-name="Club MTV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/281_color.png", Club MTV
-http://s5.cdn.nashnet.tv:8000/228.0.0.249/index.m3u8
-#EXTINF:0 tvg-name="MTV 90s" tvg-logo="http://nashnet.tv/tv_logo/png/channels/282_color.png", MTV 90s
-http://s5.cdn.nashnet.tv:8000/228.0.0.251/index.m3u8
-#EXTINF:0 tvg-name="Boutique TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/310_color.png", Boutique TV
-http://s5.cdn.nashnet.tv:8000/228.0.0.163/index.m3u8
-#EXTINF:0 tvg-name="ATR HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/409_color.png", ATR HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.49/index.m3u8
-#EXTINF:0 tvg-name="Lale HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/410_color.png", Lale HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.50/index.m3u8
-#EXTINF:0 tvg-name="Трофей HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/411_color.png", Трофей HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.119/index.m3u8
-#EXTINF:0 tvg-name="4 канал HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/430_color.png", 4 канал HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.176/index.m3u8
-#EXTINF:0 tvg-name="Music Box UA HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/454_color.png", Music Box UA HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.159/index.m3u8
-#EXTINF:0 tvg-name="Milady television" tvg-logo="http://nashnet.tv/tv_logo/png/channels/467_color.png", Milady television
-http://s5.cdn.nashnet.tv:8000/228.0.1.45/index.m3u8
-#EXTINF:0 tvg-name="News One" tvg-logo="http://nashnet.tv/tv_logo/png/channels/18_color.png", News One
-http://s5.cdn.nashnet.tv:8000/228.0.0.21/index.m3u8
-#EXTINF:0 tvg-name="СТБ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/14_color.png", СТБ
-http://s5.cdn.nashnet.tv:8000/228.0.0.17/index.m3u8
-#EXTINF:0 tvg-name="ICTV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/36_color.png", ICTV
-http://s5.cdn.nashnet.tv:8000/228.0.0.39/index.m3u8
-#EXTINF:0 tvg-name="Правда Тут HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/587_color.png", Правда Тут HD
-http://s5.cdn.nashnet.tv:8000/228.0.1.225/index.m3u8
-#EXTINF:0 tvg-name="ОЦЕ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/15_color.png", ОЦЕ
-http://s5.cdn.nashnet.tv:8000/228.0.0.18/index.m3u8
-#EXTINF:0 tvg-name="Новий канал" tvg-logo="http://nashnet.tv/tv_logo/png/channels/35_color.png", Новий канал
-http://s5.cdn.nashnet.tv:8000/228.0.0.38/index.m3u8
-#EXTINF:0 tvg-name="Телевсесвіт HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/764_color.png", Телевсесвіт HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.98/index.m3u8
-#EXTINF:0 tvg-name="Квартал ТВ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/785_color.png", Квартал ТВ
-http://s5.cdn.nashnet.tv:8000/228.0.0.126/index.m3u8
-#EXTINF:0 tvg-name="Docu Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/251_color.png", Docu Box HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.226/index.m3u8
-#EXTINF:0 tvg-name="Fast&fun Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/253_color.png", Fast&fun Box HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.228/index.m3u8
-#EXTINF:0 tvg-name="Fight Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/254_color.png", Fight Box HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.229/index.m3u8
-#EXTINF:0 tvg-name="Fashion Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/256_color.png", Fashion Box HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.231/index.m3u8
-#EXTINF:0 tvg-name="SET HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/822_color.png", Sony Channel HD
-http://s5.cdn.nashnet.tv:8000/228.0.1.49/index.m3u8
-#EXTINF:0 tvg-name="#НАШЕ Music HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/850_color.png", #НАШЕ Music HD
-http://s5.cdn.nashnet.tv:8000/228.0.1.86/index.m3u8
-#EXTINF:0 tvg-name="#НАШ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/851_color.png", #НАШ HD
-http://s5.cdn.nashnet.tv:8000/228.0.1.87/index.m3u8
 #EXTINF:0 tvg-name="Epoque" tvg-logo="http://nashnet.tv/tv_logo/png/channels/814_color.png", Epoque
 http://s5.cdn.nashnet.tv:8000/228.0.0.214/index.m3u8
 #EXTINF:0 tvg-name="Фауна" tvg-logo="http://nashnet.tv/tv_logo/png/channels/942_color.png", Фауна
@@ -309,16 +217,126 @@ http://s5.cdn.nashnet.tv:8000/228.0.2.24/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.65/index.m3u8
 #EXTINF:0 tvg-name="Наука" tvg-logo="http://nashnet.tv/tv_logo/png/channels/880_color.png", Наука
 http://s5.cdn.nashnet.tv:8000/228.0.0.174/index.m3u8
-#EXTINF:0 tvg-name="Настоящее время HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/898_color.png", Настоящее время HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.243/index.m3u8
+#EXTINF:0 tvg-name="Дача" tvg-logo="http://nashnet.tv/tv_logo/png/channels/134_color.png", Дача
+http://s5.cdn.nashnet.tv:8000/228.0.0.147/index.m3u8
 #EXTINF:0 tvg-name="Дача HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/938_color.png", Дача HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.20/index.m3u8
-#EXTINF:0 tvg-name="Караван TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/965_color.png", Караван TV
-http://s5.cdn.nashnet.tv:8000/228.0.2.30/index.m3u8
-#EXTINF:0 tvg-name="ПлюсПлюс" tvg-logo="http://nashnet.tv/tv_logo/png/channels/47_color.png", ПлюсПлюс
-http://s5.cdn.nashnet.tv:8000/228.0.0.51/index.m3u8
+#EXTINF:0 tvg-name="Трофей" tvg-logo="http://nashnet.tv/tv_logo/png/channels/224_color.png", Трофей
+http://s5.cdn.nashnet.tv:8000/228.0.0.201/index.m3u8
+#EXTINF:0 tvg-name="Трофей HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/411_color.png", Трофей HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.119/index.m3u8
+#EXTINF:0 tvg-name="Сонце" tvg-logo="http://nashnet.tv/tv_logo/png/channels/177_color.png", Сонце
+http://s5.cdn.nashnet.tv:8000/228.0.0.165/index.m3u8
+#EXTINF:0 tvg-name="Зоряний HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2052_color.png", Зоряний HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.221/index.m3u8
+#EXTINF:0 tvg-name="Правда Тут HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/587_color.png", Правда Тут HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.225/index.m3u8
 #EXTINF:0 tvg-name="Правда ТУТ Київ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1035_color.png", Правда ТУТ Київ HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.35/index.m3u8
+#EXTINF:0 tvg-name="Перший західний" tvg-logo="http://nashnet.tv/tv_logo/png/channels/309_color.png", Перший західний
+http://s5.cdn.nashnet.tv:8000/228.0.0.162/index.m3u8
+#EXTINF:0 tvg-name="Телевсесвіт HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/764_color.png", Телевсесвіт HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.98/index.m3u8
+#EXTINF:0 tvg-name="Oboz TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1172_color.png", Oboz TV HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.148/index.m3u8
+#EXTINF:0 tvg-name="Еспрессо TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/199_color.png", Еспрессо TV HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.191/index.m3u8
+#EXTINF:0 tvg-name="4 канал HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/430_color.png", 4 канал HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.176/index.m3u8
+#EXTINF:0 tvg-name="News 24 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/30_color.png", News 24 HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.33/index.m3u8
+#EXTINF:0 tvg-name="News One HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/496_color.png", News One HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.110/index.m3u8
+#EXTINF:0 tvg-name="Перший Діловий" tvg-logo="http://nashnet.tv/tv_logo/png/channels/85_color.png", Перший Діловий
+http://s5.cdn.nashnet.tv:8000/228.0.0.94/index.m3u8
+#EXTINF:0 tvg-name="ЧП.INFO" tvg-logo="http://nashnet.tv/tv_logo/png/channels/25_color.png", ЧП.INFO
+http://s5.cdn.nashnet.tv:8000/228.0.0.28/index.m3u8
+#EXTINF:0 tvg-name="ATR HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/409_color.png", ATR HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.49/index.m3u8
+#EXTINF:0 tvg-name="UA:КРИМ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/963_color.png", UA:КРИМ
+http://s5.cdn.nashnet.tv:8000/228.0.0.71/index.m3u8
+#EXTINF:0 tvg-name="VH1" tvg-logo="http://nashnet.tv/tv_logo/png/channels/279_color.png", VH1
+http://s5.cdn.nashnet.tv:8000/228.0.0.247/index.m3u8
+#EXTINF:0 tvg-name="MTV Live HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/114_color.png", MTV Live HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.124/index.m3u8
+#EXTINF:0 tvg-name="MTV 80s" tvg-logo="http://nashnet.tv/tv_logo/png/channels/277_color.png", MTV 80s
+http://s5.cdn.nashnet.tv:8000/228.0.0.250/index.m3u8
+#EXTINF:0 tvg-name="MTV 90s" tvg-logo="http://nashnet.tv/tv_logo/png/channels/282_color.png", MTV 90s
+http://s5.cdn.nashnet.tv:8000/228.0.0.251/index.m3u8
+#EXTINF:0 tvg-name="MTV Hits" tvg-logo="http://nashnet.tv/tv_logo/png/channels/280_color.png", MTV Hits
+http://s5.cdn.nashnet.tv:8000/228.0.0.248/index.m3u8
+#EXTINF:0 tvg-name="Club MTV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/281_color.png", Club MTV
+http://s5.cdn.nashnet.tv:8000/228.0.0.249/index.m3u8
+#EXTINF:0 tvg-name="Глас" tvg-logo="http://nashnet.tv/tv_logo/png/channels/7_color.png", Глас
+http://s5.cdn.nashnet.tv:8000/228.0.0.10/index.m3u8
+#EXTINF:0 tvg-name="Бігуді" tvg-logo="http://nashnet.tv/tv_logo/png/channels/97_color.png", Бігуді
+http://s5.cdn.nashnet.tv:8000/228.0.0.106/index.m3u8
+#EXTINF:0 tvg-name="Наталі" tvg-logo="http://nashnet.tv/tv_logo/png/channels/144_color.png", Наталі
+http://s5.cdn.nashnet.tv:8000/228.0.0.140/index.m3u8
+#EXTINF:0 tvg-name="UA:Перший" tvg-logo="http://nashnet.tv/tv_logo/png/channels/4_color.png", UA:Перший
+http://s5.cdn.nashnet.tv:8000/228.0.0.5/index.m3u8
+#EXTINF:0 tvg-name="2+2" tvg-logo="http://nashnet.tv/tv_logo/png/channels/13_color.png", 2+2
+http://s5.cdn.nashnet.tv:8000/228.0.0.16/index.m3u8
+#EXTINF:0 tvg-name="ТЕТ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/19_color.png", ТЕТ
+http://s5.cdn.nashnet.tv:8000/228.0.0.22/index.m3u8
+#EXTINF:0 tvg-name="5 канал (UA)" tvg-logo="http://nashnet.tv/tv_logo/png/channels/23_color.png", 5 Канал
+http://s5.cdn.nashnet.tv:8000/228.0.0.26/index.m3u8
+#EXTINF:0 tvg-name="СТБ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/14_color.png", СТБ
+http://s5.cdn.nashnet.tv:8000/228.0.0.17/index.m3u8
+#EXTINF:0 tvg-name="ICTV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/36_color.png", ICTV
+http://s5.cdn.nashnet.tv:8000/228.0.0.39/index.m3u8
+#EXTINF:0 tvg-name="Новий канал" tvg-logo="http://nashnet.tv/tv_logo/png/channels/35_color.png", Новий канал
+http://s5.cdn.nashnet.tv:8000/228.0.0.38/index.m3u8
+#EXTINF:0 tvg-name="Квартал ТВ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/785_color.png", Квартал ТВ
+http://s5.cdn.nashnet.tv:8000/228.0.0.126/index.m3u8
+#EXTINF:0 tvg-name="ОЦЕ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/15_color.png", ОЦЕ
+http://s5.cdn.nashnet.tv:8000/228.0.0.18/index.m3u8
+#EXTINF:0 tvg-name="Lale HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/410_color.png", Lale HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.50/index.m3u8
+#EXTINF:0 tvg-name="Milady television" tvg-logo="http://nashnet.tv/tv_logo/png/channels/467_color.png", Milady television
+http://s5.cdn.nashnet.tv:8000/228.0.1.45/index.m3u8
+#EXTINF:0 tvg-name="Караван TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/965_color.png", Караван TV
+http://s5.cdn.nashnet.tv:8000/228.0.2.30/index.m3u8
+#EXTINF:0 tvg-name="News One" tvg-logo="http://nashnet.tv/tv_logo/png/channels/18_color.png", News One
+http://s5.cdn.nashnet.tv:8000/228.0.0.21/index.m3u8
+#EXTINF:0 tvg-name="НАШ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/28_color.png", НАШ
+http://s5.cdn.nashnet.tv:8000/228.0.0.31/index.m3u8
+#EXTINF:0 tvg-name="НАШ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1486_color.png", НАШ HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.169/index.m3u8
+#EXTINF:0 tvg-name="#НАШ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/851_color.png", #НАШ HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.87/index.m3u8
+#EXTINF:0 tvg-name="ZIK" tvg-logo="http://nashnet.tv/tv_logo/png/channels/27_color.png", ZIK HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.30/index.m3u8
+#EXTINF:0 tvg-name="ZIK" tvg-logo="http://nashnet.tv/tv_logo/png/channels/39_color.png", ZIK
+http://s5.cdn.nashnet.tv:8000/228.0.0.43/index.m3u8
+#EXTINF:0 tvg-name="Чорноморська ТРК" tvg-logo="http://nashnet.tv/tv_logo/png/channels/122_color.png", Чорноморська ТРК
+http://s5.cdn.nashnet.tv:8000/228.0.0.136/index.m3u8
+#EXTINF:0 tvg-name="CNN" tvg-logo="http://nashnet.tv/tv_logo/png/channels/70_color.png", CNN
+http://s5.cdn.nashnet.tv:8000/228.0.0.75/index.m3u8
+#EXTINF:0 tvg-name="Беларусь ТВ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/147_color.png", Беларусь ТВ
+http://s5.cdn.nashnet.tv:8000/228.0.0.171/index.m3u8
+#EXTINF:0 tvg-name="Надія ТБ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/149_color.png", Надія ТБ
+http://s5.cdn.nashnet.tv:8000/228.0.0.172/index.m3u8
+#EXTINF:0 tvg-name="CNL HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/121_color.png", CNL HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.135/index.m3u8
+#EXTINF:0 tvg-name="France 24 English" tvg-logo="http://nashnet.tv/tv_logo/png/channels/227_color.png", France 24 English
+http://s5.cdn.nashnet.tv:8000/228.0.0.166/index.m3u8
+#EXTINF:0 tvg-name="Boutique TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/310_color.png", Boutique TV
+http://s5.cdn.nashnet.tv:8000/228.0.0.163/index.m3u8
+#EXTINF:0 tvg-name="Docu Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/251_color.png", Docu Box HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.226/index.m3u8
+#EXTINF:0 tvg-name="Fast&fun Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/253_color.png", Fast&fun Box HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.228/index.m3u8
+#EXTINF:0 tvg-name="Fight Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/254_color.png", Fight Box HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.229/index.m3u8
+#EXTINF:0 tvg-name="Fashion Box HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/256_color.png", Fashion Box HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.231/index.m3u8
+#EXTINF:0 tvg-name="#НАШЕ Music HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/850_color.png", #НАШЕ Music HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.86/index.m3u8
+#EXTINF:0 tvg-name="Настоящее время HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/898_color.png", Настоящее время HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.243/index.m3u8
+#EXTINF:0 tvg-name="ПлюсПлюс" tvg-logo="http://nashnet.tv/tv_logo/png/channels/47_color.png", ПлюсПлюс
+http://s5.cdn.nashnet.tv:8000/228.0.0.51/index.m3u8
 #EXTINF:0 tvg-name="Українське радіо" tvg-logo="http://nashnet.tv/tv_logo/png/channels/980_color.png", Українське радіо
 http://s5.cdn.nashnet.tv:8000/228.0.1.50/index.m3u8
 #EXTINF:0 tvg-name="Радіо Промінь" tvg-logo="http://nashnet.tv/tv_logo/png/channels/981_color.png", Радіо Промінь
@@ -327,32 +345,14 @@ http://s5.cdn.nashnet.tv:8000/228.0.1.51/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.1.52/index.m3u8
 #EXTINF:0 tvg-name="ETHO канал HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1101_color.png", ETHO канал HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.108/index.m3u8
-#EXTINF:0 tvg-name="Oboz TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1172_color.png", Oboz TV HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.148/index.m3u8
-#EXTINF:0 tvg-name="Перший Автомобільний HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1237_color.png", Перший Автомобільний HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.217/index.m3u8
-#EXTINF:0 tvg-name="Ukrainian Fashion HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1333_color.png", Ukrainian Fashion HD
-http://s5.cdn.nashnet.tv:8000/228.0.1.67/index.m3u8
 #EXTINF:0 tvg-name="Megogo live HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1473_color.png", Megogo live HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.214/index.m3u8
-#EXTINF:0 tvg-name="НАШ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/28_color.png", НАШ
-http://s5.cdn.nashnet.tv:8000/228.0.0.31/index.m3u8
-#EXTINF:0 tvg-name="Зоряний HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2052_color.png", Зоряний HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.221/index.m3u8
-#EXTINF:0 tvg-name="2+2" tvg-logo="http://nashnet.tv/tv_logo/png/channels/13_color.png", 2+2
-http://s5.cdn.nashnet.tv:8000/228.0.0.16/index.m3u8
-#EXTINF:0 tvg-name="ТЕТ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/19_color.png", ТЕТ
-http://s5.cdn.nashnet.tv:8000/228.0.0.22/index.m3u8
-#EXTINF:0 tvg-name="5 канал (UA)" tvg-logo="http://nashnet.tv/tv_logo/png/channels/23_color.png", 5 Канал
-http://s5.cdn.nashnet.tv:8000/228.0.0.26/index.m3u8
 #EXTINF:0 tvg-name="inRating TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2317_color.png", inRating TV HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.218/index.m3u8
 #EXTINF:0 tvg-name="Kyiv.Live HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2285_color.png", Kyiv.Live HD
 http://s5.cdn.nashnet.tv:8000/228.0.1.222/index.m3u8
 #EXTINF:0 tvg-name="36.6 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1531_color.png", 36.6 HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.78/index.m3u8
-#EXTINF:0 tvg-name="4ever Music HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1930_color.png", 4ever Music HD
-http://s5.cdn.nashnet.tv:8000/228.0.2.163/index.m3u8
 #EXTINF:0 tvg-name="Апостроф TV HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2206_color.png", Апостроф TV HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.165/index.m3u8
 #EXTINF:0 tvg-name="Кус-кус HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1932_color.png", Кус-кус HD
