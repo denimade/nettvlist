@@ -149,6 +149,10 @@ http://s5.cdn.nashnet.tv:8000/228.0.3.147/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.1.53/index.m3u8
 #EXTINF:0 tvg-name="Eurosport 2" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1989_color.png", Eurosport 2
 http://s5.cdn.nashnet.tv:8000/228.0.3.148/index.m3u8
+#EXTINF:0 tvg-name="Setanta Sports HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1873_color.png", Setanta Sports HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.128/index.m3u8
+#EXTINF:0 tvg-name="Setanta Sports+ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2040_color.png", Setanta Sports+ HD
+http://s5.cdn.nashnet.tv:8000/228.0.3.128/index.m3u8
 #EXTINF:0 tvg-name="FOX Life" tvg-logo="http://nashnet.tv/tv_logo/png/channels/101_color.png", FOX Life
 http://s5.cdn.nashnet.tv:8000/228.0.0.111/index.m3u8
 #EXTINF:0 tvg-name="FOX" tvg-logo="http://nashnet.tv/tv_logo/png/channels/102_color.png", FOX
@@ -165,6 +169,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.210/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.1.42/index.m3u8
 #EXTINF:0 tvg-name="VIP Premiere CEE" tvg-logo="http://nashnet.tv/tv_logo/png/channels/452_color.png", VIP Premiere HD
 http://s5.cdn.nashnet.tv:8000/228.0.1.43/index.m3u8
+#EXTINF:0 tvg-name="Epic Drama HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1246_color.png", Epic Drama HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.163/index.m3u8
 #EXTINF:0 tvg-name="Zee TV" tvg-logo="http://nashnet.tv/tv_logo/png/channels/405_color.png", Zee TV
 http://s5.cdn.nashnet.tv:8000/228.0.1.33/index.m3u8
 #EXTINF:0 tvg-name="SET" tvg-logo="http://nashnet.tv/tv_logo/png/channels/103_color.png", Sony Channel
@@ -181,6 +187,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.3.133/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.3.134/index.m3u8
 #EXTINF:0 tvg-name="Любимое кино" tvg-logo="http://nashnet.tv/tv_logo/png/channels/810_color.png", Наше Кино
 http://s5.cdn.nashnet.tv:8000/228.0.1.81/index.m3u8
+#EXTINF:0 tvg-name="Наше ретро HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/851_color.png", Наше ретро HD
+http://s5.cdn.nashnet.tv:8000/228.0.1.87/index.m3u8
 #EXTINF:0 tvg-name="FILMUADRAMA HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/913_color.png", FILMUADRAMA HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.130/index.m3u8
 #EXTINF:0 tvg-name="Bolt HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1099_color.png", Bolt HD
