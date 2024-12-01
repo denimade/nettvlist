@@ -126,8 +126,6 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.190/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.2.166/index.m3u8
 #EXTINF:0 tvg-name="4ever Theater" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2915_dune.svg", 4ever Theater
 http://s5.cdn.nashnet.tv:8000/228.0.2.164/index.m3u8
-#EXTINF:0 tvg-name="Epic Drama HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1246_color.png", Epic Drama HD
-http://s5.cdn.nashnet.tv:8000/228.0.1.163/index.m3u8
 #EXTINF:0 tvg-name="FILMUADRAMA HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/913_color.png", FILMUADRAMA HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.130/index.m3u8
 #EXTINF:0 tvg-name="СВІТЛО" tvg-logo="https://nashnet.tv/tv_logo/png/channels/1255_color.png", СВІТЛО
@@ -212,7 +210,7 @@ http://s5.cdn.nashnet.tv:8000/228.0.2.100/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.36/index.m3u8
 #EXTINF:0 tvg-name="4ever Music HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1930_color.png", 4ever Music HD
 http://s5.cdn.nashnet.tv:8000/228.0.2.163/index.m3u8
-#EXTINF:0 tvg-name="UA music" tvg-logo="http://nashnet.tv/tv_logo/png/channels/129_color.png", UA Music
+#EXTINF:0 tvg-name="UA music" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2898_dune.svg", UA Music
 http://s5.cdn.nashnet.tv:8000/228.0.0.157/index.m3u8
 #EXTINF:0 tvg-name="MTV 00" tvg-logo="http://nashnet.tv/tv_logo/png/channels/279_color.png", MTV 00
 http://s5.cdn.nashnet.tv:8000/228.0.0.247/index.m3u8
