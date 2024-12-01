@@ -144,10 +144,12 @@ http://s5.cdn.nashnet.tv:8000/228.0.1.15/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.102/index.m3u8
 #EXTINF:0 tvg-name="Nickelodeon HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/113_color.png", Nickelodeon HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.123/index.m3u8
-#EXTINF:0 tvg-name="NIKI Kids HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1174_color.png", NIKI Kids HD
-http://s5.cdn.nashnet.tv:8000/228.0.0.189/index.m3u8
+#EXTINF:0 tvg-name="Nicktoons" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/1981_dune.svg", Nicktoons.
+http://s5.cdn.nashnet.tv:8000/228.0.3.89/index.m3u8
 #EXTINF:0 tvg-name="Nick Jr." tvg-logo="http://nashnet.tv/tv_logo/png/channels/301_color.png", Nick Jr.
 http://s5.cdn.nashnet.tv:8000/228.0.0.146/index.m3u8
+#EXTINF:0 tvg-name="NIKI Kids HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1174_color.png", NIKI Kids HD
+http://s5.cdn.nashnet.tv:8000/228.0.0.189/index.m3u8
 #EXTINF:0 tvg-name="NIKI Junior HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1173_color.png", NIKI Junior HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.186/index.m3u8
 #EXTINF:0 tvg-name="Cartoon Network" tvg-logo="http://nashnet.tv/tv_logo/png/channels/71_color.png", Cartoon Network
