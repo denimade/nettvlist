@@ -42,7 +42,7 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.11/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.12/index.m3u8
 #EXTINF:0 tvg-name="Еко ТВ HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2234_color.png", Еко ТВ HD
 http://s5.cdn.nashnet.tv:8000/228.0.1.60/index.m3u8
-#EXTINF:0 tvg-name="Epoque" tvg-logo="http://nashnet.tv/tv_logo/png/channels/814_color.png", Epoque
+#EXTINF:0 tvg-name="Epoque" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/814_dune.svg", Світло
 http://s5.cdn.nashnet.tv:8000/228.0.0.214/index.m3u8
 #EXTINF:0 tvg-name="Фауна" tvg-logo="http://nashnet.tv/tv_logo/png/channels/942_color.png", Фауна
 http://s5.cdn.nashnet.tv:8000/228.0.2.24/index.m3u8
