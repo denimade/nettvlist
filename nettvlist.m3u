@@ -112,6 +112,8 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.111/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.112/index.m3u8
 #EXTINF:0 tvg-name="FOX" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2856_dune.svg", Наше улюблене кіно
 http://s5.cdn.nashnet.tv:8000/228.0.1.2/index.m3u8 
+#EXTINF:0 tvg-name="FOX" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2955_dune.svg", KINOSWEET
+http://s5.cdn.nashnet.tv:8000/228.0.1.22/index.m3u8
 #EXTINF:0 tvg-name="PROKINO" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1255_color.png", PROKINO
 http://s5.cdn.nashnet.tv:8000/228.0.0.20/index.m3u8
 #EXTINF:0 tvg-name="DORAMA" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1255_color.png", DORAMA
