@@ -62,7 +62,7 @@ http://s5.cdn.nashnet.tv:8000/228.0.2.20/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.201/index.m3u8
 #EXTINF:0 tvg-name="Трофей HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/411_color.png", Трофей HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.119/index.m3u8
-#EXTINF:0 tvg-name="Рибалка" tvg-logo="http://nashnet.tv/tv_logo/png/channels/411_color.png", Рибалка
+#EXTINF:0 tvg-name="Рибалка" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/1950_dune.svg", Рибалка
 http://s5.cdn.nashnet.tv:8000/228.0.2.181/index.m3u8
 #EXTINF:0 tvg-name="Сонце" tvg-logo="http://nashnet.tv/tv_logo/png/channels/177_color.png", Сонце
 http://s5.cdn.nashnet.tv:8000/228.0.0.165/index.m3u8
