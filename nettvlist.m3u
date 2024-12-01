@@ -2,6 +2,8 @@
 http://s5.cdn.nashnet.tv:8000/228.0.2.45/index.m3u8
 #EXTINF:0 tvg-name="UA:Культура" tvg-logo="http://nashnet.tv/tv_logo/png/channels/127_color.png", UA:Культура
 http://s5.cdn.nashnet.tv:8000/228.0.0.141/index.m3u8
+#EXTINF:0 tvg-name="UA: КИЇВ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/38_color.png", UA: КИЇВ
+http://s5.cdn.nashnet.tv:8000/228.0.0.41/index.m3u8
 #EXTINF:0 tvg-name="2+2 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/2073_color.png", 2+2 HD
 http://s5.cdn.nashnet.tv:8000/228.0.3.216/index.m3u8
 #EXTINF:0 tvg-name="1+1 Ukraine" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1954_color.png", 1+1 Ukraine
@@ -30,7 +32,7 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.103/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.6/index.m3u8
 #EXTINF:0 tvg-name="Мега" tvg-logo="http://nashnet.tv/tv_logo/png/channels/142_color.png", Мега
 http://s5.cdn.nashnet.tv:8000/228.0.0.2/index.m3u8
-#EXTINF:0 tvg-name="UA: Ми Україна" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2811_dune.svg", UA: Ми Україна
+#EXTINF:0 tvg-name="Ми Україна" tvg-logo="https://nashnet.tv/tv_logo/svg/channels/2811_dune.svg", Ми Україна
 http://s5.cdn.nashnet.tv:8000/228.0.0.82/index.m3u8
 #EXTINF:0 tvg-name="Zoom" tvg-logo="http://nashnet.tv/tv_logo/png/channels/52_color.png", Zoom
 http://s5.cdn.nashnet.tv:8000/228.0.0.57/index.m3u8
@@ -86,8 +88,6 @@ http://s5.cdn.nashnet.tv:8000/228.0.0.122/index.m3u8
 http://s5.cdn.nashnet.tv:8000/228.0.0.191/index.m3u8
 #EXTINF:0 tvg-name="Перший Автомобільний HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/1237_color.png", Перший Автомобільний HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.217/index.m3u8
-#EXTINF:0 tvg-name="UA: КИЇВ" tvg-logo="http://nashnet.tv/tv_logo/png/channels/38_color.png", UA: КИЇВ
-http://s5.cdn.nashnet.tv:8000/228.0.0.41/index.m3u8
 #EXTINF:0 tvg-name="Канал 8 HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/124_color.png", Канал 8 HD
 http://s5.cdn.nashnet.tv:8000/228.0.0.138/index.m3u8
 #EXTINF:0 tvg-name="Телевсесвіт HD" tvg-logo="http://nashnet.tv/tv_logo/png/channels/764_color.png", Телевсесвіт HD
